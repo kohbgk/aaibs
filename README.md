@@ -1,3 +1,6 @@
+# Update
+ok what was I doing bruh
+
 # AAIBS
 Anime Adventures Infinite Buff Script
 
